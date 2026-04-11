@@ -83,7 +83,7 @@ Bash
 * Text "healthbot" in the chat to make The Bot alive
 * Chatbot reply seamlessly 
 ## Step 5 – Access Services
-ASHA Dashboard: http://localhost:6000
+ASHA Dashboard: http://localhost:5000
 
 ## 🧪 Testing the System
 * Send a WhatsApp message like:
