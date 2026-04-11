@@ -1,0 +1,76 @@
+[
+    {
+        "phone": "+919600791354",
+        "message": "Emergency",
+        "intent": "emergency",
+        "status": "pending"
+    },
+    {
+        "phone": "+919600791354",
+        "message": "I feel like i have heart attack",
+        "intent": "emergency",
+        "status": "pending"
+    },
+    {
+        "phone": "+919600791354",
+        "message": "Can you suggest me some home remedy",
+        "intent": "emergency",
+        "status": "pending"
+    },
+    {
+        "phone": "918667579696@c.us",
+        "message": "heavy bleeding pregnancy help",
+        "location": "https://www.google.com/maps?q=12.9546456,80.1911025",
+        "timestamp": "2026-03-19T18:59:11.682Z",
+        "status": "pending"
+    },
+    {
+        "phone": "918667579696@c.us",
+        "message": "Pregnancy emergency",
+        "location": "https://www.google.com/maps?q=12.954653,80.1911065",
+        "timestamp": "2026-03-20T04:48:39.848Z",
+        "status": "pending"
+    },
+    {
+        "phone": "917358103091@c.us",
+        "message": "Pregnancy emergency",
+        "location": "https://www.google.com/maps?q=13.0818786,80.188092",
+        "timestamp": "2026-03-20T06:30:43.815Z",
+        "status": "pending"
+    },
+    {
+        "phone": "917358103091@c.us",
+        "message": "Heartache emergency",
+        "location": "https://www.google.com/maps?q=13.0818925,80.1880979",
+        "timestamp": "2026-03-20T06:33:47.487Z",
+        "status": "pending"
+    },
+    {
+        "phone": "918667579696@c.us",
+        "message": "emergency",
+        "location": "https://www.google.com/maps?q=12.9546511,80.1910973",
+        "timestamp": "2026-03-20T09:35:05.855Z",
+        "status": "pending"
+    },
+    {
+        "phone": "917358103091@c.us",
+        "message": "pregnancy emergency",
+        "location": "https://www.google.com/maps?q=13.0818729,80.1881759",
+        "timestamp": "2026-03-20T12:32:43.740Z",
+        "status": "pending"
+    },
+    {
+        "phone": "917358103091@c.us",
+        "message": "emergency",
+        "location": "https://www.google.com/maps?q=13.081888,80.1880955",
+        "timestamp": "2026-03-20T13:05:33.675Z",
+        "status": "pending"
+    },
+    {
+        "phone": "919094055535@c.us",
+        "message": "I have chest pain",
+        "location": "https://www.google.com/maps?q=13.0294848,80.2732696",
+        "timestamp": "2026-04-10T17:15:41.279Z",
+        "status": "pending"
+    }
+]
