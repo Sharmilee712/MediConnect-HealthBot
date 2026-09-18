@@ -1,75 +1,75 @@
 [
     {
-        "phone": "+919600791354",
+        "phone": "+9196007xxxxx",
         "message": "Emergency",
         "intent": "emergency",
         "status": "pending"
     },
     {
-        "phone": "+919600791354",
+        "phone": "+91xxxxx91x54",
         "message": "I feel like i have heart attack",
         "intent": "emergency",
         "status": "pending"
     },
     {
-        "phone": "+919600791354",
+        "phone": "+919600xxxxx4",
         "message": "Can you suggest me some home remedy",
         "intent": "emergency",
         "status": "pending"
     },
     {
-        "phone": "918667579696@c.us",
+        "phone": "918667xxxxx6@c.us",
         "message": "heavy bleeding pregnancy help",
-        "location": "https://www.google.com/maps?q=12.9546456,80.1911025",
+        "location": "https://www.google.com/maps?q=18.987463,89.56415",
         "timestamp": "2026-03-19T18:59:11.682Z",
         "status": "pending"
     },
     {
-        "phone": "918667579696@c.us",
+        "phone": "918667xxxxxx@c.us",
         "message": "Pregnancy emergency",
-        "location": "https://www.google.com/maps?q=12.954653,80.1911065",
+        "location": "https://www.google.com/maps?q=21.87451,98.5454545",
         "timestamp": "2026-03-20T04:48:39.848Z",
         "status": "pending"
     },
     {
-        "phone": "917358103091@c.us",
+        "phone": "917358xxx91@c.us",
         "message": "Pregnancy emergency",
-        "location": "https://www.google.com/maps?q=13.0818786,80.188092",
+        "location": "https://www.google.com/maps?q=13.42151548,80.44555",
         "timestamp": "2026-03-20T06:30:43.815Z",
         "status": "pending"
     },
     {
-        "phone": "917358103091@c.us",
+        "phone": "917xxxxxx091@c.us",
         "message": "Heartache emergency",
-        "location": "https://www.google.com/maps?q=13.0818925,80.1880979",
+        "location": "https://www.google.com/maps?q=13.484848,88.484848",
         "timestamp": "2026-03-20T06:33:47.487Z",
         "status": "pending"
     },
     {
-        "phone": "918667579696@c.us",
+        "phone": "91xxxxxxx696@c.us",
         "message": "emergency",
-        "location": "https://www.google.com/maps?q=12.9546511,80.1910973",
+        "location": "https://www.google.com/maps?q=12.888888,80.448548",
         "timestamp": "2026-03-20T09:35:05.855Z",
         "status": "pending"
     },
     {
-        "phone": "917358103091@c.us",
+        "phone": "91xxxxxxx091@c.us",
         "message": "pregnancy emergency",
-        "location": "https://www.google.com/maps?q=13.0818729,80.1881759",
+        "location": "https://www.google.com/maps?q=93.4484848,55.44444",
         "timestamp": "2026-03-20T12:32:43.740Z",
         "status": "pending"
     },
     {
-        "phone": "917358103091@c.us",
+        "phone": "917xxxxx3091@c.us",
         "message": "emergency",
-        "location": "https://www.google.com/maps?q=13.081888,80.1880955",
+        "location": "https://www.google.com/maps?q=13.4455554,80.515151",
         "timestamp": "2026-03-20T13:05:33.675Z",
         "status": "pending"
     },
     {
-        "phone": "919094055535@c.us",
+        "phone": "919xxxxxxx35@c.us",
         "message": "I have chest pain",
-        "location": "https://www.google.com/maps?q=13.0294848,80.2732696",
+        "location": "https://www.google.com/maps?q=13.4848488,80.9898945",
         "timestamp": "2026-04-10T17:15:41.279Z",
         "status": "pending"
     }
