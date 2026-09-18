@@ -1,6 +1,5 @@
-# 🏥 HealthBot – WhatsApp-Based Health Assistance System
-
-HealthBot is a multilingual AI-powered healthcare assistance system designed to connect users with healthcare support in rural and semi-urban areas. The system allows users to interact via WhatsApp, receive health guidance, track vaccinations, and escalate critical cases to ASHA workers through a real-time dashboard.
+# 🏥 MediConnect – WhatsApp-Based Health Assistance System
+MediConnect is a multilingual AI-powered healthcare assistance system designed to connect users with healthcare support in rural and semi-urban areas. The system allows users to interact via WhatsApp, receive health guidance, track vaccinations, and escalate critical cases to ASHA workers through a real-time dashboard.
 
 ---
 
@@ -27,15 +26,33 @@ HealthBot utilizes a multi-service architecture to provide seamless interaction 
 The project is organized into modular services for scalability:
 
 ```text
-healthbot/
+
+MediConnect-HealthBot/
 │
-├── app.js                    # Main Node.js backend (core logic)
-├── asha_dashboard/          # Dashboard for ASHA workers (Python + HTML)
-├── vaccine_registrations.json # Stores vaccine data
-├── alerts.json              # Stores emergency alerts
-├── docker-compose.yml       # Container orchestration
-├── Dockerfile               # Backend container config
+├── Health_ChatBot_new/
+│   ├── asha_dashboard/
+│   │   ├── alerts.json
+│   │   ├── app.py
+│   │   └── dashboard.html
+│   │
+│   ├── backend/
+│   │   ├── app/
+│   │   │   ├── app.json
+│   │   │   └── package.json
+│   │   ├── Dockerfile
+│   │   └── vaccine_registrations.json
+│   │
+│   ├── rasa_project/
+│   │   ├── config.yml
+│   │   └── domain.yml
+│   │
+│   ├── Health_ChatBot.ml
+│   ├── docker-compose.yml
+│   ├── runme.py
+│   └── vaccine_data.json
+│
 └── README.md
+
 ```
 ## 🛠️ Tech Stack
 ```
@@ -62,8 +79,9 @@ Orchestration    | Docker Compose              | Manages multi-service setup
 ## 🐳 Running the Project (Docker Recommended)
 # Step 1 – Clone Repository
 Bash
-* git clone [https://github.com/231901052/HealthBot.git](https://github.com/231901052/HealthBot.git)
-* cd healthbot
+* git clone https://github.com/Sharmilee712/MediConnect-HealthBot.git
+* cd MediConnect-HealthBot
+* cd Health_ChatBot_new    
 ## Step 2 – Add Environment Variables
 * Navigate to .env file inside the backend/ directory and update with your credentials:
 * Code snippet
